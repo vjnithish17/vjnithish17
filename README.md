@@ -20,15 +20,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=vjnithish17&show_icons=true&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vjnithish17&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vjnithish17&layout=compact&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjnithish17&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
 
-![](https://streak-stats.demolab.com?user=vjnithish17&theme=github-dark)
-
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vjnithish17&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🚀 Featured Projects
 
