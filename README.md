@@ -1,187 +1,171 @@
-# Hi 👋, I'm Nithyasundharam E
-
-### 🚀 Full Stack MERN Developer
-
-💻 Passionate about building scalable web applications using the MERN Stack.
-
-- 🌱 Currently learning **Advanced MERN Stack**
-- 👨‍💻 Portfolio: https://nithish-plum.vercel.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/nithish-e-27b2822a5/
-- 📫 Email: **vjnithish17@gmail.com**
-- 📍 Karur, Tamil Nadu, India
-
----
-
-## 💻 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,git,github,postman,vscode" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vjnithish17&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjnithish17&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vjnithish17&theme=tokyonight&hide_border=true" />
-</p>
-
-## 🚀 Featured Projects
-
-### 💰 AI Expense Tracker
-- MERN Stack
-- JWT Authentication
-- AI-powered expense insights
-- Responsive UI
-
-### 🐄 Dairy Farm Management System
-- MERN Stack
-- CRUD Operations
-- Responsive Dashboard
-
----
-
-### 📫 Connect with Me
-
-<a href="https://www.linkedin.com/in/nithish-e-27b2822a5/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-
-<a href="mailto:vjnithish17@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
-</a>
-
-<a href="https://nithish-plum.vercel.app/">
-🌐 Portfolio
-</a>
 <h1 align="center">Hi 👋, I'm Nithyasundharam E</h1>
 
-<h3 align="center">Full Stack MERN Developer | React.js • Node.js • Express.js • MongoDB</h3>
+<h3 align="center">
+Full Stack MERN Developer | React.js • Node.js • Express.js • MongoDB
+</h3>
 
 <p align="center">
-Passionate about building scalable, secure, and user-friendly web applications using modern JavaScript technologies.
+Passionate about building secure, scalable and responsive web applications using the MERN Stack.
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=vjnithish17">
-    <img src="https://komarev.com/ghpvc/?username=vjnithish17&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/vjnithish17">
+    <img src="https://komarev.com/ghpvc/?username=vjnithish17&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
   </a>
-  <img src="https://img.shields.io/github/followers/vjnithish17?label=Followers&style=social"/>
+
+  <img src="https://img.shields.io/github/followers/vjnithish17?label=Followers&style=for-the-badge"/>
+
+  <img src="https://img.shields.io/github/stars/vjnithish17?affiliations=OWNER&style=for-the-badge"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 💼 Aspiring **Full Stack MERN Developer**
-- 🌱 Currently learning **Advanced Backend Development & System Design**
-- 🚀 Passionate about building scalable and responsive web applications
-- 🔒 Experienced with **JWT Authentication**, **REST APIs**, and **MongoDB**
-- 🎯 Open to **Full Stack Developer** opportunities
+💻 Full Stack MERN Developer passionate about building modern web applications.
 
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,git,github,postman,vscode,npm" />
-</p>
+- 🚀 MERN Stack Developer
+- 🌱 Currently learning Advanced Backend Development & System Design
+- 🔐 Strong understanding of JWT Authentication & REST APIs
+- 📱 Responsive Web Design
+- ⚡ Clean, Maintainable & Scalable Code
+- 🎯 Open to Full Stack Developer Opportunities
 
 ---
 
-## 📊 GitHub Statistics
+# 🚀 Tech Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vjnithish17&show_icons=true&theme=github_dark&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,mongoose,git,github,postman,vscode,npm"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjnithish17&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=vjnithish17&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-## 💼 Featured Projects
+# 📊 GitHub Statistics
 
-### 💰 AI Expense Tracker
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vjnithish17&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjnithish17&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=vjnithish17&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 💰 AI Expense Tracker
 
 ✔ Secure JWT Authentication
 
 ✔ Expense & Income Management
 
-✔ AI-powered Financial Insights
+✔ AI-powered Insights
 
 ✔ REST API Integration
 
 ✔ Responsive MERN Stack Application
 
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB
+**Tech Stack**
+
+React.js • Node.js • Express.js • MongoDB
 
 ---
 
-### 🐄 Dairy Farm Management System
+## 🐄 Dairy Farm Management System
 
-✔ Dairy Farm Data Management
+✔ Modern Responsive UI
 
 ✔ CRUD Operations
 
-✔ Responsive Dashboard
+✔ Dashboard
 
-✔ Clean & User-Friendly Interface
+✔ User-friendly Interface
 
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB
+**Tech Stack**
+
+React.js • Node.js • Express.js • MongoDB
 
 ---
 
-## 🛠 Core Skills
+# 🛠 Technical Skills
 
-- Frontend Development
-- Backend Development
-- REST API Development
+### Frontend
+
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript (ES6+)
+- React.js
+
+### Backend
+
+- Node.js
+- Express.js
+- REST APIs
 - JWT Authentication
-- MongoDB Database Design
-- MVC Architecture
-- Git & GitHub
-- Responsive Web Design
+- bcrypt.js
+
+### Database
+
+- MongoDB
+- Mongoose
+- MongoDB Atlas
+
+### Tools
+
+- Git
+- GitHub
+- Postman
+- VS Code
+- npm
+- Vercel
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/nithish-e-27b2822a5">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+<a href="mailto:vjnithish17@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
 </a>
 
-<a href="mailto:vjnithish17@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/nithish-e-27b2822a5">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://nithish-plum.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge"/>
 </a>
 
 </p>
 
 ---
 
+# 🎯 Career Objective
+
+Seeking an entry-level Full Stack Developer role where I can contribute to impactful projects, continuously improve my technical skills, and grow as a software engineer.
+
+---
+
 <p align="center">
 
-⭐ Thank you for visiting my profile! <br>
+⭐ Thanks for visiting my profile!
 
-If you like my work, don't forget to ⭐ my repositories.
+If you like my work, consider giving my repositories a ⭐
 
 </p>
